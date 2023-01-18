@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-zgixuu$%&_w)7v_u7a-o)dt6ese3296w%*=fznikco_3se&yo@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['study-buddy.up.railway.app', '127.0.0.1', 'localhost', 'study-buddy-new']
+ALLOWED_HOSTS = ['study-buddy.up.railway.app', '127.0.0.1', 'localhost', 'study-buddy-new.up.railway.app']
 
 
 # Application definition
