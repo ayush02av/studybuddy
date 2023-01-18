@@ -57,6 +57,8 @@ MIDDLEWARE = [
     'django.middleware.csrf.CsrfViewMiddleware',
 ]
 
+CSRF_TRUSTED_ORIGINS = ['study-buddy.up.railway.app', '127.0.0.1', 'localhost', 'study-buddy-new.up.railway.app']
+
 ROOT_URLCONF = 'discord.urls'
 
 TEMPLATES = [
